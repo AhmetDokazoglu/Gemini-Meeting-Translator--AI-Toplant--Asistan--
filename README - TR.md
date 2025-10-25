@@ -90,4 +90,4 @@ Proje, küresel toplantı deneyimini yeniden tanımlayan yenilikçi bir AI çöz
 ---
 
 ## 📎 Ek Dökümanlar  
-📄 [Proje Raporu (Word Versiyonu)](https://github.com/AhmetDokazoglu/Gemini-Meeting-Translator/raw/refs/heads/main/Gemini_Meeting_Translator_İçindekiler_TR_Sade.docx)
+📄 [Proje Raporu (Word Versiyonu)](https://github.com/AhmetDokazoglu/Gemini-Meeting-Translator--AI-Toplant--Asistan--/raw/refs/heads/main/Gemini%20Meeting%20Translator%20(AI%20Toplant%C4%B1%20Asistan%C4%B1).docx)
