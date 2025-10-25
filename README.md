@@ -90,7 +90,4 @@ By combining speech recognition, machine translation, and natural voice synthesi
 ---
 
 ## 📎 Additional Documents  
-📄 [Download Full Project Report (Word Version)](https://github.com/AhmetDokazoglu/Gemini-Meeting-Translator--AI-Toplant--Asistan--/raw/refs/heads/main/Gemini%20Meeting%20Translator%20(AI%20Toplant%C4%B1%20Asistan%C4%B1).docx)  
-
-> **Note:** Source code is not shared publicly due to API and privacy considerations.  
-> A demo version can be provided upon request for evaluation purposes.
+📄 [Download Full Project Report (Word Version)](https://github.com/AhmetDokazoglu/Gemini-Meeting-Translator--AI-Toplant--Asistan--/raw/refs/heads/main/Gemini%20Meeting%20Translator%20(AI%20Meeting%20Assistant).docx)  
